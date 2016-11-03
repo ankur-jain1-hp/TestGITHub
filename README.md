@@ -1,2 +1,2 @@
 # TestGITHub
-Creating a repository
+Creating a repository fro testing
